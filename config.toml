@@ -2,11 +2,13 @@ baseURL = 'https://finstar.github.io/'
 languageCode = 'de-de'
 title = 'Jensipedia'
 theme = 'gokarna'
-
+enableEmoji = true
+enableRobotsTXT = true
 
 [params]
   # URL for the avatar on homepage
   avatarURL = "/images/avatar.png"
+  AvatarAltText = "avatar von Jens"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = "size-l"
@@ -22,7 +24,7 @@ theme = 'gokarna'
   customHeadHTML = ""
 
   # Keywords relevant for SEO
-  metaKeywords = ["blog", "gokarna", "hugo"]
+  metaKeywords = ["blog", "gokarna", "hugo", "MacOS", "3D Printer"]
 
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
@@ -62,6 +64,12 @@ theme = 'gokarna'
     identifier = "github"
     url = "https://github.com/FinsTar"
     weight = 5
-    
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
+  
+  [[menu.main]]
+    name = "About"
+    identifier = "abut"
+    url = "/about/"
+    weight = 6
+    pre = "<span data-feather='user'></span>"
