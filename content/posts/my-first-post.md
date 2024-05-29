@@ -1,8 +1,7 @@
 ---
 title: "My First Post"
-date: 2023-01-29T17:31:43+01:00
-author: "Jens"
-tags: ["me"]
+date: 2023-02-02T18:20:43+01:00
+type: post
 ---
 
 ## Introduction
