@@ -1,13 +1,12 @@
 ---
 title: "About"
-
+type: page
 url: "/about/"
 ---
 
 ## Jens
 
-Geboren - im letzten Jahrtausend
-
----
-
-Jetzt - Lebt noch immer  
+über mich 
+- Spielkind
+- Nerd
+- Recnik begeister

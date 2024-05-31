@@ -1,7 +1,8 @@
 ---
 title: "My First Post"
-date: 2023-02-02T18:20:43+01:00
+date: 2023-02-20
 type: post
+tags: ["First"]
 ---
 
 ## Introduction

@@ -35,6 +35,7 @@ theme = 'gokarna'
   footer = "The Juns"
 
 
+
   [menu]
     [[menu.main]]
     name = "Home"
@@ -58,16 +59,10 @@ theme = 'gokarna'
     weight = 3
 
   [[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
-    weight = 4
-
-  [[menu.main]]
     name = "Cheat sheet"
     pre = "<span data-feather='book'></span>"
     url = "/cheatsheet/"
-    weight = 5
+    weight = 4
     
   [[menu.main]]
     identifier = "github"
