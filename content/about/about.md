@@ -4,9 +4,12 @@ type: page
 url: "/about/"
 ---
 
-## Jens
+**Jens H.**
+- über mich 
+- Spielkind  
+- Nerd  
+- Technik begeistert  
 
-über mich 
-- Spielkind
-- Nerd
-- Recnik begeister
+### Links
+[Mastodon@Juns](https://mastodon.social/@juns)  
+[Printables@Juns](https://www.printables.com/de/@Juns)
