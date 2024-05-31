@@ -1,4 +1,4 @@
-baseURL = 'https://finstar.github.io/'
+baseURL = 'https://jensipedia.de/'
 languageCode = 'de-de'
 title = 'Jensipedia'
 theme = 'gokarna'

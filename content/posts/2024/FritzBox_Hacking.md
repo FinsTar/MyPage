@@ -9,3 +9,4 @@ tags: ["Fritz!Box"]
 
 ###
 FritzBox 7583
+![Image](/images/fritzbox_7583_001.png)
