@@ -1,7 +1,7 @@
 ---
 title: "Cheat"
 url: "/cheatsheet/"
-date: 2024-05-29T21:02:42+02:00
+date: 2024-06-07
 type: page
 ---
 
