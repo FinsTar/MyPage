@@ -20,4 +20,9 @@ systemctl reboot --firmware-setup
 ~~~
 
 ---
+Linux-Passwort ändern (Debian)
 
+~~~bash
+sudo passwd <Benutzername>
+~~~
+---
